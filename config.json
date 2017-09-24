@@ -1,0 +1,10 @@
+{
+  "model": "mult_nb_tfidf",
+  "data_path": "./data/",
+  "model_path": "./model/",
+  "test_size": 0.20,
+  "seed": 9,
+  "test_path":"./test/",
+  "file" :"./test/check.txt",
+  "output_path" : "output.csv"
+}
